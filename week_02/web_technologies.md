@@ -2,3 +2,4 @@
 
 ## The Internet Archive
 
+One web technology that I find specifically interesting is the internet archive. Inspecting the page and diving into its code a little further I am able to stop .JS files and some I was able top spot a handful of .css files. However, one think that I did not manage to find were .html files, which was a surprised due to the abundance of css and js files. A quick Google search will yield the result that there are 169 people that are behind this non-profit project, which is actually a significant amount of people but I was honestly expecting even more. The webaddress is https://archive.org/, which is fitting due to what it is. I was also able to find a githib repo for the project under the link: https://github.com/internetarchive.
